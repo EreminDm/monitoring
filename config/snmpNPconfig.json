@@ -1,0 +1,5 @@
+{
+    "SNMPip": "172.10.10.146", 
+    "Community": "SWITCH", 
+    "Port": 1611
+}

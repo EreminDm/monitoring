@@ -1,0 +1,5 @@
+{
+    "SNMPip": "127.0.0.1", 
+    "Community": "public", 
+    "Port": 161
+}
